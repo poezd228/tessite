@@ -1,0 +1,9 @@
+.ChatWindow {
+    lex: 1;
+    background-color: #2a2f32;
+    padding: 15px;
+    overflow: auto;
+    margin-left: 16%;
+
+}
+

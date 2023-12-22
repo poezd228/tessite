@@ -18,3 +18,8 @@
 .contact-list li:hover {
   background-color: #323739;
 }
+.chat-window {
+  display: flex;
+  flex-direction: column;
+  margin-left: 30%;
+}
